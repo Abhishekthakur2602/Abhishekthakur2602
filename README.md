@@ -54,10 +54,6 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-![Abhishekthakur2602's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishekthakur2602\&show_icons=true\&theme=radical)
-
 ## 🔗 Let's Connect
 
 * 💼 LinkedIn: https://linkedin.com/in/abhishek-singh-7148ba276
